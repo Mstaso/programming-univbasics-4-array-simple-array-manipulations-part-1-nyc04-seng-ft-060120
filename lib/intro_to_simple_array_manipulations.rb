@@ -19,3 +19,5 @@ def pop_with_args(continents)
 end
 
 def using_shift
+  
+end  
