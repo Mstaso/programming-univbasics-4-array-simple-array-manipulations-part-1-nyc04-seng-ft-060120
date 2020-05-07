@@ -8,4 +8,7 @@ def using_unshift(bouroughs_in_nyc, staten_island)
   bouroughs_in_nyc.unshift("Staten Island")
 end
 
-def using_pop()
+def using_pop
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  
+end
